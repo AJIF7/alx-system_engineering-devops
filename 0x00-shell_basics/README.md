@@ -1,1 +1,1 @@
-creata a symbolic link
+symbolic link
