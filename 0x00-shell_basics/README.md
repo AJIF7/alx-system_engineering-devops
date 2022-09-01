@@ -1,1 +1,1 @@
-to go back one step
+to list  with speciial characte
