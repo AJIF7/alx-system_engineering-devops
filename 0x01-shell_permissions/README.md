@@ -1,1 +1,1 @@
-chown hello betty
+do now oo
