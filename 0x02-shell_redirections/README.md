@@ -1,1 +1,1 @@
-display of teo files
+Display the content of /etc/passwd and /etc/hosts
